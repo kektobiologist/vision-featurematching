@@ -14,4 +14,4 @@ scale invariant object matching on solid geometric shapes. Based on [vision](htt
 
 ![Screenshot1](pics/pic1.png "vision ui")
 
-![Screenshot2](pics/pic1.png "feature matching")
+![Screenshot2](pics/pic2.png "feature matching")
